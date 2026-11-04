@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Duplicate model artifact at the project root
+/diabetes_model.pkl

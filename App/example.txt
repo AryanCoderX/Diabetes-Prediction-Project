@@ -1,0 +1,26 @@
+Diabetes-positive
+
+| Feature                    | Value |
+| -------------------------- | ----: |
+| Pregnancies                |     6 |
+| Glucose                    |   190 |
+| Blood Pressure             |    90 |
+| Skin Thickness             |    35 |
+| Insulin                    |   250 |
+| BMI                        |  38.5 |
+| Diabetes Pedigree Function |   1.5 |
+| Age                        |    55 |
+
+
+Diabetes-negative
+
+| Feature                    | Value |
+| -------------------------- | ----: |
+| Pregnancies                |     1 |
+| Glucose                    |    85 |
+| Blood Pressure             |    66 |
+| Skin Thickness             |    20 |
+| Insulin                    |    75 |
+| BMI                        |  22.5 |
+| Diabetes Pedigree Function |   0.2 |
+| Age                        |    25 |
